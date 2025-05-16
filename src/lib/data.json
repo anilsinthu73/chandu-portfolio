@@ -1,0 +1,67 @@
+{
+  "education": [
+    {
+      "degree": "B.Tech in Information Technology",
+      "institution": "JNTU-Gurajada Vizianagaram",
+      "duration": "2021 – 2025",
+      "location": "Vizianagaram, India",
+      "cgpa": "7.3"
+    },
+    {
+      "degree": "Intermediate (MPC)",
+      "institution": "Prathibha Junior College",
+      "duration": "2019 – 2021",
+      "location": "Rajahmundry, India",
+      "score": "745/1000 (95%)"
+    },
+    {
+      "degree": "High School",
+      "institution": "A.P.P.M Model High School",
+      "duration": "Up to 2019",
+      "location": "Rajahmundry, India",
+      "score": "9.7"
+    }
+  ],
+  "skills": [
+    "Java",
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "SQL",
+    "MongoDB",
+    "Git",
+    "HTML/CSS",
+    "Tailwind CSS",
+    "C Programming",
+    "Data Structures & Algorithms",
+    "Machine Learning",
+    "Power BI",
+    "Blockchain"
+  ],
+  "projects": [
+    {
+      "title": "Business Insights 360 Dashboard – Power BI",
+      "description": "Designed and implemented a comprehensive Power BI solution with dashboards for six core business functions."
+    },
+    {
+      "title": "Hospitality Management Dashboard – Power BI",
+      "description": "Developed an interactive Power BI dashboard to analyze key metrics in the hospitality sector."
+    },
+    {
+      "title": "Drug Classification using ML",
+      "description": "Analyzed medical data to identify patterns in drug prescriptions based on patient attributes."
+    },
+    {
+      "title": "Securing Resource-Constrained Healthcare (H-IoT) Devices with Blockchain and ASCON",
+      "description": "Built a secure framework integrating lightweight ASCON encryption with Hyperledger blockchain for IoT devices."
+    }
+  ],
+  "certifications": [
+    "Oracle Academy - Basics of Java Certification",
+    "HackerRank CSS (Intermediate)",
+    "HackerRank Java (Basic)"
+  ]
+}
